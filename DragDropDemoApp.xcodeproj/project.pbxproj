@@ -34,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AC1FCEFF2C7F24EF0027BD9C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		AC6DD3AB2C7DB5ED006E208F /* DragDropDemoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DragDropDemoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC6DD3AE2C7DB5ED006E208F /* DragDropDemoAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragDropDemoAppApp.swift; sourceTree = "<group>"; };
 		AC6DD3B02C7DB5ED006E208F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -94,6 +95,7 @@
 		AC6DD3AD2C7DB5ED006E208F /* DragDropDemoApp */ = {
 			isa = PBXGroup;
 			children = (
+				AC1FCEFF2C7F24EF0027BD9C /* Info.plist */,
 				AC6DD3AE2C7DB5ED006E208F /* DragDropDemoAppApp.swift */,
 				AC6DD3B02C7DB5ED006E208F /* ContentView.swift */,
 				AC6DD3B22C7DB5EE006E208F /* Assets.xcassets */,
@@ -424,6 +426,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"DragDropDemoApp/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = DragDropDemoApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -452,6 +455,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"DragDropDemoApp/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = DragDropDemoApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
